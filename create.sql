@@ -7,3 +7,4 @@ create table PERSONS
     city_of_living varchar(255),
     primary key (name, surname, age)
 );
+
